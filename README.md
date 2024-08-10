@@ -37,6 +37,10 @@ This Solidity smart contract, `ConferenceAttendance`, manages participant regist
 3. Call `calculatePenalty` with the number of missed sessions to determine if a penalty applies.
 4. Call `shouldBlacklist` to check if the participant should be blacklisted based on missed sessions.
 
+## Contact 
+
+iamtechie871@gmail.com
+
 ## License
 
 This contract is licensed under the MIT License.
